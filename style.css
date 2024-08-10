@@ -44,6 +44,7 @@
 /*featuer section*/
 .section-2{
     margin-top: 130px;
+
 }
 .feature-container{
     display: flex;
@@ -107,4 +108,83 @@
 .discount-image{
     width: 850px;
     height: 650px;
+}
+
+/*instragram section*/
+.instragram-content{
+    display: flex;
+}
+.instragram-flower{
+        margin-top: 30px;
+        margin-left: auto;
+        margin-right: auto;
+        
+}
+
+/*form section*/
+.form-content{
+    background-image: url('images/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.form-title{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    padding-top: 30px;
+}
+.form-description{
+    text-align: center;
+    color: #757575;
+}
+.form-content{
+    text-align: center;
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    border-radius: 5px;
+    border: 0;
+    width: 100%;
+}
+.btn-form{
+    border-radius: 5px;
+    background-color: #FD6E0A;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 25px;
+    padding: 14px 35px;
+}
+.message input{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0;
+    display: inline;
+    width: 50%;
+}
+
+/*footer section*/
+.footer-content{
+    background-color: black;
+}
+.footer-title{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 34px;
+    font-weight: bold;
+}
+.footer-description{
+    color: white;
+    text-align: center;
+}
+.conclusion{
+    color: #757575;
+    text-align: center;
+    padding-bottom: 40px;
 }
